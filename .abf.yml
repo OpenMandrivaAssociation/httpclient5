@@ -1,0 +1,4 @@
+sources:
+  httpcomponents-client-5.6.5-src.tar.gz: b8d7e65fd485eac675081ab23d1d6eec230dc774
+  zstd-jni-1.5.7-4-sources.jar: 4e0fc456868037aef19e40fcc0dd77d96347cf5c
+  brotli4j-1.20.0-sources.jar: b93501c4a3250747ccc0dbc5c6c9e42f012aca51
